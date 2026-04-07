@@ -1,0 +1,8 @@
+{
+  "name": "FerroScan AI - Metal Detector",
+  "description": "A high-precision metal detection and analysis tool using device sensors and Gemini AI for material identification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
